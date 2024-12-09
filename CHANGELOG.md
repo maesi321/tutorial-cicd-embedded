@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+## v0.0.5
+Features:
+- crash
+
 ## v0.0.4
 Fixes:
  - fixed LED test
